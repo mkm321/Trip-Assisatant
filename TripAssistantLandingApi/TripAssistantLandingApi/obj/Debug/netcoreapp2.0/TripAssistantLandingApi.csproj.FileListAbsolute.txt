@@ -1,0 +1,11 @@
+c:\users\mmehndiratta\source\repos\TripAssistantLandingApi\TripAssistantLandingApi\bin\Debug\netcoreapp2.0\TripAssistantLandingApi.deps.json
+c:\users\mmehndiratta\source\repos\TripAssistantLandingApi\TripAssistantLandingApi\bin\Debug\netcoreapp2.0\TripAssistantLandingApi.runtimeconfig.json
+c:\users\mmehndiratta\source\repos\TripAssistantLandingApi\TripAssistantLandingApi\bin\Debug\netcoreapp2.0\TripAssistantLandingApi.runtimeconfig.dev.json
+c:\users\mmehndiratta\source\repos\TripAssistantLandingApi\TripAssistantLandingApi\bin\Debug\netcoreapp2.0\TripAssistantLandingApi.dll
+c:\users\mmehndiratta\source\repos\TripAssistantLandingApi\TripAssistantLandingApi\bin\Debug\netcoreapp2.0\TripAssistantLandingApi.pdb
+c:\users\mmehndiratta\source\repos\TripAssistantLandingApi\TripAssistantLandingApi\obj\Debug\netcoreapp2.0\TripAssistantLandingApi.csprojAssemblyReference.cache
+c:\users\mmehndiratta\source\repos\TripAssistantLandingApi\TripAssistantLandingApi\obj\Debug\netcoreapp2.0\TripAssistantLandingApi.csproj.CoreCompileInputs.cache
+c:\users\mmehndiratta\source\repos\TripAssistantLandingApi\TripAssistantLandingApi\obj\Debug\netcoreapp2.0\TripAssistantLandingApi.AssemblyInfoInputs.cache
+c:\users\mmehndiratta\source\repos\TripAssistantLandingApi\TripAssistantLandingApi\obj\Debug\netcoreapp2.0\TripAssistantLandingApi.AssemblyInfo.cs
+c:\users\mmehndiratta\source\repos\TripAssistantLandingApi\TripAssistantLandingApi\obj\Debug\netcoreapp2.0\TripAssistantLandingApi.dll
+c:\users\mmehndiratta\source\repos\TripAssistantLandingApi\TripAssistantLandingApi\obj\Debug\netcoreapp2.0\TripAssistantLandingApi.pdb

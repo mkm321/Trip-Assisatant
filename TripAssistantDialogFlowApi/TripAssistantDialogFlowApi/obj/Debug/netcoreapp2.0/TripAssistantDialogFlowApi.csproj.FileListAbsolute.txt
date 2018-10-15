@@ -1,0 +1,11 @@
+c:\users\mmehndiratta\source\repos\TripAssistantDialogFlowApi\TripAssistantDialogFlowApi\bin\Debug\netcoreapp2.0\TripAssistantDialogFlowApi.deps.json
+c:\users\mmehndiratta\source\repos\TripAssistantDialogFlowApi\TripAssistantDialogFlowApi\bin\Debug\netcoreapp2.0\TripAssistantDialogFlowApi.runtimeconfig.json
+c:\users\mmehndiratta\source\repos\TripAssistantDialogFlowApi\TripAssistantDialogFlowApi\bin\Debug\netcoreapp2.0\TripAssistantDialogFlowApi.runtimeconfig.dev.json
+c:\users\mmehndiratta\source\repos\TripAssistantDialogFlowApi\TripAssistantDialogFlowApi\bin\Debug\netcoreapp2.0\TripAssistantDialogFlowApi.dll
+c:\users\mmehndiratta\source\repos\TripAssistantDialogFlowApi\TripAssistantDialogFlowApi\obj\Debug\netcoreapp2.0\TripAssistantDialogFlowApi.csproj.CoreCompileInputs.cache
+c:\users\mmehndiratta\source\repos\TripAssistantDialogFlowApi\TripAssistantDialogFlowApi\obj\Debug\netcoreapp2.0\TripAssistantDialogFlowApi.AssemblyInfoInputs.cache
+c:\users\mmehndiratta\source\repos\TripAssistantDialogFlowApi\TripAssistantDialogFlowApi\obj\Debug\netcoreapp2.0\TripAssistantDialogFlowApi.AssemblyInfo.cs
+c:\users\mmehndiratta\source\repos\TripAssistantDialogFlowApi\TripAssistantDialogFlowApi\bin\Debug\netcoreapp2.0\TripAssistantDialogFlowApi.pdb
+c:\users\mmehndiratta\source\repos\TripAssistantDialogFlowApi\TripAssistantDialogFlowApi\obj\Debug\netcoreapp2.0\TripAssistantDialogFlowApi.csprojAssemblyReference.cache
+c:\users\mmehndiratta\source\repos\TripAssistantDialogFlowApi\TripAssistantDialogFlowApi\obj\Debug\netcoreapp2.0\TripAssistantDialogFlowApi.dll
+c:\users\mmehndiratta\source\repos\TripAssistantDialogFlowApi\TripAssistantDialogFlowApi\obj\Debug\netcoreapp2.0\TripAssistantDialogFlowApi.pdb

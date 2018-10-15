@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripAssistantDialogFlowApi", "TripAssistantDialogFlowApi\TripAssistantDialogFlowApi.csproj", "{13947BD5-FE73-4FE2-BCD8-1BD5DA1B340F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13947BD5-FE73-4FE2-BCD8-1BD5DA1B340F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13947BD5-FE73-4FE2-BCD8-1BD5DA1B340F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13947BD5-FE73-4FE2-BCD8-1BD5DA1B340F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13947BD5-FE73-4FE2-BCD8-1BD5DA1B340F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3F30A7B-D63B-4D8F-B1F3-BF21024BCBA1}
+	EndGlobalSection
+EndGlobal
