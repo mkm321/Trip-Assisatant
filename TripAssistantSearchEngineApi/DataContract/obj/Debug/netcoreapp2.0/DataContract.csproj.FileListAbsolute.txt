@@ -1,0 +1,45 @@
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.deps.json
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.AssemblyInfo.cs
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.csprojResolveAssemblyReference.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.deps.json
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.csprojAssemblyReference.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.csproj.CoreCompileInputs.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.AssemblyInfoInputs.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.AssemblyInfo.cs
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.deps.json
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.AssemblyInfo.cs
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.deps.json
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.AssemblyInfo.cs
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.csprojResolveAssemblyReference.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.deps.json
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\bin\Debug\netcoreapp2.0\DataContract.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.csprojAssemblyReference.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.AssemblyInfoInputs.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.AssemblyInfo.cs
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\DataContract\obj\Debug\netcoreapp2.0\DataContract.pdb

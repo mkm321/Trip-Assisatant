@@ -1,0 +1,57 @@
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.deps.json
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.AssemblyInfo.cs
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.deps.json
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.csprojAssemblyReference.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.csproj.CoreCompileInputs.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.AssemblyInfoInputs.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.AssemblyInfo.cs
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.csproj.CopyComplete
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.deps.json
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.AssemblyInfo.cs
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.deps.json
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.AssemblyInfo.cs
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.deps.json
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\GeoCodeGeneratorApi.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.csprojAssemblyReference.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.AssemblyInfoInputs.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.AssemblyInfo.cs
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.csproj.CopyComplete
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\GeoCodeGeneratorApi\obj\Debug\netcoreapp2.0\GeoCodeGeneratorApi.pdb

@@ -1,0 +1,57 @@
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.deps.json
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.AssemblyInfo.cs
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.deps.json
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.csprojAssemblyReference.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.csproj.CoreCompileInputs.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.AssemblyInfoInputs.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.AssemblyInfo.cs
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.csproj.CopyComplete
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.deps.json
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.AssemblyInfo.cs
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.deps.json
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.AssemblyInfo.cs
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.csprojResolveAssemblyReference.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.deps.json
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\ContextGeneratorApi.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.csprojAssemblyReference.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.AssemblyInfoInputs.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.AssemblyInfo.cs
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.csproj.CopyComplete
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextGeneratorApi\obj\Debug\netcoreapp2.0\ContextGeneratorApi.pdb

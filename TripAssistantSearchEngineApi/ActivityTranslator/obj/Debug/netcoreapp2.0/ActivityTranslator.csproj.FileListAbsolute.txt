@@ -1,0 +1,14 @@
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityTranslator\bin\Debug\netcoreapp2.0\ActivityTranslator.deps.json
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityTranslator\bin\Debug\netcoreapp2.0\ActivityTranslator.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityTranslator\obj\Debug\netcoreapp2.0\ActivityTranslator.csprojAssemblyReference.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityTranslator\obj\Debug\netcoreapp2.0\ActivityTranslator.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityTranslator\obj\Debug\netcoreapp2.0\ActivityTranslator.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityTranslator\obj\Debug\netcoreapp2.0\ActivityTranslator.AssemblyInfo.cs
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityTranslator\bin\Debug\netcoreapp2.0\ActivityTranslator.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityTranslator\bin\Debug\netcoreapp2.0\ActivityApi.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityTranslator\bin\Debug\netcoreapp2.0\DataContract.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityTranslator\bin\Debug\netcoreapp2.0\ActivityApi.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityTranslator\bin\Debug\netcoreapp2.0\DataContract.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityTranslator\obj\Debug\netcoreapp2.0\ActivityTranslator.csproj.CopyComplete
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityTranslator\obj\Debug\netcoreapp2.0\ActivityTranslator.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityTranslator\obj\Debug\netcoreapp2.0\ActivityTranslator.pdb

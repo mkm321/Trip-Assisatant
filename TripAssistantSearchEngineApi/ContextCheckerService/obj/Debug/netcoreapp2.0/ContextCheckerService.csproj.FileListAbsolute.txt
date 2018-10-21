@@ -1,0 +1,67 @@
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.deps.json
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextGeneratorApi.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.AssemblyInfo.cs
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.deps.json
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextGeneratorApi.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.csprojAssemblyReference.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.csproj.CoreCompileInputs.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.AssemblyInfoInputs.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.AssemblyInfo.cs
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.csproj.CopyComplete
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.deps.json
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextGeneratorApi.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.AssemblyInfo.cs
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.deps.json
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextGeneratorApi.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.AssemblyInfo.cs
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.deps.json
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextCheckerService.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextGeneratorApi.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\ContextGeneratorApi.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.csprojAssemblyReference.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.AssemblyInfoInputs.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.AssemblyInfo.cs
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.csproj.CopyComplete
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ContextCheckerService\obj\Debug\netcoreapp2.0\ContextCheckerService.pdb

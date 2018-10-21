@@ -1,0 +1,67 @@
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.deps.json
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.AssemblyInfo.cs
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\RedisDataProvider.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\RedisDataProvider.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.deps.json
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\RedisDataProvider.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\RedisDataProvider.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.csprojAssemblyReference.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.csproj.CoreCompileInputs.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.AssemblyInfoInputs.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.AssemblyInfo.cs
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.csproj.CopyComplete
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.deps.json
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\RedisDataProvider.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\RedisDataProvider.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.AssemblyInfo.cs
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.deps.json
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\RedisDataProvider.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\RedisDataProvider.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.AssemblyInfo.cs
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.deps.json
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApiProvider.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\RedisDataProvider.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\RedisDataProvider.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.csprojAssemblyReference.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.AssemblyInfoInputs.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.AssemblyInfo.cs
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.csproj.CopyComplete
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApiProvider.pdb

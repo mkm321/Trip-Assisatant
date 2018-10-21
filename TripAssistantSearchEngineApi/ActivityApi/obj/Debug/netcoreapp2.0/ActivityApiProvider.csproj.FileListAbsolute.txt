@@ -1,0 +1,67 @@
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.deps.json
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.AssemblyInfo.cs
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\RedisDataProvider.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\RedisDataProvider.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.deps.json
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\RedisDataProvider.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\RedisDataProvider.pdb
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.csprojAssemblyReference.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.csproj.CoreCompileInputs.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.AssemblyInfoInputs.cache
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.AssemblyInfo.cs
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.csproj.CopyComplete
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.dll
+C:\Users\pgoel\Downloads\TripAssistant-API-Mohit\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.deps.json
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\RedisDataProvider.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\RedisDataProvider.pdb
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.AssemblyInfo.cs
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.dll
+C:\Users\mmehndiratta\Downloads\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.csprojResolveAssemblyReference.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.AssemblyInfo.cs
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.deps.json
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\RedisDataProvider.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\RedisDataProvider.pdb
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.dll
+C:\Users\mmehndiratta\Downloads\TripAssistant-API-Mohit (1)\TripAssistant-API-Mohit\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.deps.json
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApiProvider.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\RedisDataProvider.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\RedisDataProvider.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.csprojAssemblyReference.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.AssemblyInfoInputs.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.AssemblyInfo.cs
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.csproj.CopyComplete
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApiProvider.pdb

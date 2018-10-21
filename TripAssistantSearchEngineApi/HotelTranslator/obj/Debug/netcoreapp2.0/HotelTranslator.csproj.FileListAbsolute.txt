@@ -1,0 +1,12 @@
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelTranslator\bin\Debug\netcoreapp2.0\HotelTranslator.deps.json
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelTranslator\bin\Debug\netcoreapp2.0\HotelTranslator.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelTranslator\obj\Debug\netcoreapp2.0\HotelTranslator.csprojAssemblyReference.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelTranslator\obj\Debug\netcoreapp2.0\HotelTranslator.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelTranslator\obj\Debug\netcoreapp2.0\HotelTranslator.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelTranslator\obj\Debug\netcoreapp2.0\HotelTranslator.AssemblyInfo.cs
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelTranslator\bin\Debug\netcoreapp2.0\HotelTranslator.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelTranslator\bin\Debug\netcoreapp2.0\DataContract.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelTranslator\bin\Debug\netcoreapp2.0\DataContract.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelTranslator\obj\Debug\netcoreapp2.0\HotelTranslator.csproj.CopyComplete
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelTranslator\obj\Debug\netcoreapp2.0\HotelTranslator.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelTranslator\obj\Debug\netcoreapp2.0\HotelTranslator.pdb

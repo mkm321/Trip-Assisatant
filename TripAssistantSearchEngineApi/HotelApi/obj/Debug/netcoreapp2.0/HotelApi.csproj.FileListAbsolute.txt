@@ -1,0 +1,9 @@
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApi.deps.json
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApi.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApi.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApi.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApi.AssemblyInfo.cs
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\bin\Debug\netcoreapp2.0\HotelApi.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApi.csprojAssemblyReference.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApi.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\HotelApi\obj\Debug\netcoreapp2.0\HotelApi.pdb

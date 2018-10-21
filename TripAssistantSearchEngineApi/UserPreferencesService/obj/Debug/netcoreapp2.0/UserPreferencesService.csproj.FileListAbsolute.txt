@@ -1,0 +1,12 @@
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\UserPreferencesService\bin\Debug\netcoreapp2.0\UserPreferencesService.deps.json
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\UserPreferencesService\bin\Debug\netcoreapp2.0\UserPreferencesService.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\UserPreferencesService\bin\Debug\netcoreapp2.0\UserPreferencesService.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\UserPreferencesService\bin\Debug\netcoreapp2.0\CoreContract.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\UserPreferencesService\bin\Debug\netcoreapp2.0\CoreContract.pdb
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\UserPreferencesService\obj\Debug\netcoreapp2.0\UserPreferencesService.csprojAssemblyReference.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\UserPreferencesService\obj\Debug\netcoreapp2.0\UserPreferencesService.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\UserPreferencesService\obj\Debug\netcoreapp2.0\UserPreferencesService.AssemblyInfoInputs.cache
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\UserPreferencesService\obj\Debug\netcoreapp2.0\UserPreferencesService.AssemblyInfo.cs
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\UserPreferencesService\obj\Debug\netcoreapp2.0\UserPreferencesService.csproj.CopyComplete
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\UserPreferencesService\obj\Debug\netcoreapp2.0\UserPreferencesService.dll
+C:\Users\Mohit Mehndiratta\Downloads\do\trash-master\trash-master\TripAssistantSearchEngineApi\UserPreferencesService\obj\Debug\netcoreapp2.0\UserPreferencesService.pdb

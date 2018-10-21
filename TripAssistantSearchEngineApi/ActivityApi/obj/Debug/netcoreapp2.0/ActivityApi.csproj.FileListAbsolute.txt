@@ -1,0 +1,9 @@
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApi.deps.json
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApi.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApi.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApi.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApi.AssemblyInfo.cs
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApi.csprojAssemblyReference.cache
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\bin\Debug\netcoreapp2.0\ActivityApi.pdb
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApi.dll
+C:\Users\mmehndiratta\source\repos\TripAssistantSearchEngineApi\ActivityApi\obj\Debug\netcoreapp2.0\ActivityApi.pdb

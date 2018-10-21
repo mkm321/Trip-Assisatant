@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "40acaf32561b3ce37a2a3f906b873d95f4dc19e5"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ContextGeneratorApi/1.0.0": {
+        "dependencies": {
+          "ApiAiSDK": "1.6.5",
+          "CoreContract": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "ContextGeneratorApi.dll": {}
+        }
+      },
+      "ApiAiSDK/1.6.5": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/net35/ApiAiSDK.dll": {
+            "assemblyVersion": "1.6.5.0",
+            "fileVersion": "1.6.5.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "CoreContract/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "CoreContract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContextGeneratorApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiAiSDK/1.6.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yo81xpa0clRQOcBuZYpC+9Mlo/3wzPu9htK6Opmzo0CIu9lkrMzaK8xFB+DpzqPwt4Bt0UdT/n0WkedFit74Tw==",
+      "path": "apiaisdk/1.6.5",
+      "hashPath": "apiaisdk.1.6.5.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "CoreContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
